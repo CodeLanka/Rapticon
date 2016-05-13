@@ -45,7 +45,7 @@ Our idea is doable since most of the print shops have internet connectivity wher
 
 
 - ######After printing the document
-![after](https://i.imgsafe.org/b34f87d.png)
+![after](https://i.imgsafe.org/bc5cc71.png)
 
 
 - ######Using google maps for searching the neareset printing shop
