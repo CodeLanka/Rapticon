@@ -22,4 +22,4 @@ Our idea is doable since most of the print shops have internet connectivity wher
 ### Technologies we have used: Google API, Ideamart SMS and Subscription, Android, Java Swing, Bootstrap, PHP, JQueriy, Apache, Tomcat
 
 
-## Youtube link for the pitch video : [![Youtube Link](https://img.youtube.com/vi/https://www.youtube.com/watch?v=P71neJ5cCcs/1.jpg)]()
+## Youtube link for the pitch video : [![Youtube Link](https://img.youtube.com/vi/https://https://youtu.be/NZxiO2-b_pc/1.jpg)](https://youtu.be/NZxiO2-b_pc)
