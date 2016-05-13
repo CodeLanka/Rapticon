@@ -1,6 +1,8 @@
 # Rapticon
 
 Sprinty
+
+
 Sprinty is a mobile application which connects you and your nearest print shop(i.e. stationary shop which have a printer). Where you can choose any type of printable document send it for printing using the app. When the printing is over you will get notified. All the chargers will be handled through the application with the ideamart CaaS API. And we will use Google maps API to locate the nearest printing shop around the customer. Customer can choose the shop. We will use a Linux web server installed apache to host over web services. 
 Why our solution is unique?
 There is no any application currently for this specific task. We know that photocopy shops or print shops are always busy, when we want to take a printout it is very irritating to wait at the shop until we get our print out. Most of the people who needs photo copies are school children, obviously university students where they have less time to waste other than studying. They will love this concept. 
