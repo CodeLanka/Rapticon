@@ -24,7 +24,7 @@ Our idea is doable since most of the print shops have internet connectivity wher
 
 
 
-## Youtube link for the pitch video : [![Youtube Link](https://img.youtube.com/vi/https://https://youtu.be/NZxiO2-b_pc/1.jpg)](https://youtu.be/NZxiO2-b_pc)
+## Youtube link for the pitch video : [![Youtube Link](https://img.youtube.com/vi/https://youtu.be/MxCuiBIeHJc)](https://youtu.be/MxCuiBIeHJc)
 
 
 
@@ -33,27 +33,36 @@ Our idea is doable since most of the print shops have internet connectivity wher
 
 
 - ######Main menu
-![mainmenu](https://i.imgsafe.org/b34f87d.png)
+![mainmenu](https://i.imgsafe.org/c69b1ce.png)
+
+
+- ######Media Selection
+![mainmenu](https://i.imgsafe.org/cddc755.png)
 
 
 - ######File explorer
 ![fileexplorer](https://i.imgsafe.org/b2eae20.png)
 
 
-- ######While printing the documents
-![while](https://i.imgsafe.org/bbc4ec1.png)
+- ######After uploading
+![mainmenu](https://i.imgsafe.org/b34f87d.png)
 
 
-- ######After printing the document
-![after](https://i.imgsafe.org/bc5cc71.png)
-
-
-- ######Using google maps for searching the neareset printing shop
+- ######Using google maps for finding the neareset printing shop
 ![fdf](https://i.imgsafe.org/bd2b770.png)
 
 
-- ######After clicking the neareset place
+- ######After clicking "Find Nearest" button
 ![fdf](https://i.imgsafe.org/bd9cf71.png)
+
+
+- ######While printing the documents
+![while](https://i.imgsafe.org/bbc4ec1.png)
+![after](https://i.imgsafe.org/bc5cc71.png)
+
+
+- ######After printing the document
+![after](https://i.imgsafe.org/38d4ad4.png)
 
 
 - ######Desktop application 
