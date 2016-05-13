@@ -2,6 +2,7 @@
 
 Sprinty
 
+[![IMAGE ALT TEXT HERE](http://i66.tinypic.com/2ns7zn5.png)
 
 Sprinty is a mobile application which connects you and your nearest print shop(i.e. stationary shop which have a printer). Where you can choose any type of printable document send it for printing using the app. When the printing is over you will get notified. All the chargers will be handled through the application with the ideamart CaaS API. And we will use Google maps API to locate the nearest printing shop around the customer. Customer can choose the shop. We will use a Linux web server installed apache to host over web services. 
 Why our solution is unique?
