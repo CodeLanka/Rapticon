@@ -24,7 +24,7 @@ Our idea is doable since most of the print shops have internet connectivity wher
 
 
 
-## Youtube link for the pitch video : [![Youtube Link](https://img.youtube.com/vi/https://youtu.be/MxCuiBIeHJc)](https://youtu.be/MxCuiBIeHJc)
+## Youtube link for the pitch video : [![Youtube Link]](https://youtu.be/MxCuiBIeHJc)
 
 
 
